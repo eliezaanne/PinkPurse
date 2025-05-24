@@ -1,0 +1,12 @@
+# Core app dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+
+# Visualization libraries
+matplotlib
+plotly
+
+# For styling and icons (optional, remove if not used)
+streamlit-extras
