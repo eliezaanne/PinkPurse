@@ -20,13 +20,13 @@ PinkPurse is a smart and charming personal finance manager designed especially f
 4. Run the app:
    streamlit run app.py
    
-**Usage**
+## Usage
 
-Use the **Dashboard** tab to view all your transactions and summaries
-Use the Add **Transaction** tab to add new income or expense records
-Use the** Bill Reminders** tab to add upcoming bills and stay on track
-Use the **Predictions** tab to see forecasts of your financial health
-Use the **sidebar** to import and export your data via CSV files
+- Use the **Dashboard** tab to view all your transactions and summaries
+- Use the Add **Transaction** tab to add new income or expense records
+- Use the** Bill Reminders** tab to add upcoming bills and stay on track
+- Use the **Predictions** tab to see forecasts of your financial health
+- Use the **sidebar** to import and export your data via CSV files
 
 **Contact**
 Created by ELI. Feel free to reach out for feedback or questions!
