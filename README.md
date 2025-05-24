@@ -37,7 +37,7 @@
 
 ## Contact
 
-Created by [ELI]  
+Created by ELI
 Feel free to reach out for feedback or questions!
 
 ---
